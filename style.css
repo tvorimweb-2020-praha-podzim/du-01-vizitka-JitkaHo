@@ -1,0 +1,37 @@
+body {
+  margin: 0 auto;
+  font-size: 20px;
+  max-width: 50em;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  background-color: beige;
+}
+h1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #756158;
+  text-shadow: whitesmoke;
+  }
+h2 {
+  margin: 10px;
+  padding: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: whitesmoke;
+  }
+
+.jitka {
+  width: 200px;
+  float: left;
+  border-radius: 10%;
+  margin: 10px 30px 10px 30px;
+}
+.omne {
+  color: #282425;
+}
+.kontakt {
+  background-color: rgb(115, 187, 165);
+  padding: 10px 30px;
+  text-shadow: turquoise;
+  color: white;
+}
